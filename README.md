@@ -222,5 +222,5 @@ By employing these strategies and actively seeking solutions, I was able to over
 
 
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-https://github.com/mutesh-netizen/An-inventory-management-system-for-tracking-products-and-stock-levels..git
+https://github.com/mutesh-netizen/Sample-Project/tree/master
 
